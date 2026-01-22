@@ -6,7 +6,7 @@ export const DISCLAIMER_TEXT = "We are an independent third-party service provid
 /** 
  * CONFIGURATION: GLOBAL DEFAULT UPI ID
  */
-export const DEFAULT_UPI_ID = "paytmqr5nv1ab@ptys";
+export const DEFAULT_UPI_ID = "paytmqr5nv9991ab@ptys";
 
 export const NAV_LINKS: NavLink[] = [
   { label: 'Home', path: '/' },
